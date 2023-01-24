@@ -1,2 +1,2 @@
 # Quiz App
-## Task 2 of SYNC Internship program
+### Task 2 of SYNC Internship program
